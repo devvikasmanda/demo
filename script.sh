@@ -1,3 +1,2 @@
 pwd
 date
-cluster
